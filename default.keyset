@@ -1,0 +1,6 @@
+BUTTON_POWER        Ctrl-Escape
+BUTTON_VOLUME_UP    Ctrl-Equal
+BUTTON_VOLUME_DOWN  Ctrl-Minus
+BUTTON_BACK         Ctrl-Backspace
+BUTTON_HOME         Ctrl-H
+BUTTON_MENU         Ctrl-M
